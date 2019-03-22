@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "303249586111",
+    "firebase_url": "https://kasi-online-flutterapp.firebaseio.com",
+    "project_id": "kasi-online-flutterapp",
+    "storage_bucket": "kasi-online-flutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303249586111:android:0446b1219be9f6e4",
+        "android_client_info": {
+          "package_name": "za.co.lbnkosi.kasionline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303249586111-3n4hc0n9n13pf3nr1m1hsoehdp528cb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "za.co.lbnkosi.kasionline",
+            "certificate_hash": "24f71a5d1171b69afe4ef60a64add57778e34630"
+          }
+        },
+        {
+          "client_id": "303249586111-7odsgrdd8n5dn121do12hdib8v3818vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_NjqNvl_C-jOH4N1waelS2NmDmczSLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303249586111-7odsgrdd8n5dn121do12hdib8v3818vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
